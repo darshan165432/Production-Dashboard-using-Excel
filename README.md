@@ -13,3 +13,5 @@
 ## 💰 Tracked Units Produced and Production Cost.
 ## 📑 Designed a clean, user-friendly dashboard layout.
 ## ✅ Developed the entire dashboard using Microsoft Excel only.
+## Demo Image
+![Dashboard Preview](https://github.com/darshan165432/Production-Dashboard-using-Excel/blob/main/production%20dashboard.png)
